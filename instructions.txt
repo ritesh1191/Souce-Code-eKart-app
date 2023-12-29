@@ -1,0 +1,40 @@
+# eKart-app
+
+- This is a Website developed for Online Shopping (Specifically Watches) where user can buy products online without going anywhere
+- This Project developed using MongoDB, Express.js ,React.js,Node.js & Bootstrap which is a frontend CSS framework for developing
+responsive and mobile-first web applications.
+- for setting up payment getways Here I have used Braintree API which It allows you to accept online payments from customers in your
+application or website.
+
+
+# Tech Stack
+- Client: React JS
+- Server: Node JS, Express JS
+- Database: Mongo DB
+
+# Demo
+https://ekart-mern-app.cyclic.app/
+
+# Demo Video
+https://drive.google.com/file/d/19gOjwtXTbGAqZxs_f5pXuZ2lXxoUz8UJ/view
+
+## Run Locally
+
+1) Go to the project directory
+
+2) Install dependencies
+
+```
+  npm install
+```
+
+```
+  cd client
+  npm install
+```
+
+3) Start Application
+
+```
+  npm run dev
+```
