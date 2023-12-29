@@ -20,7 +20,7 @@ https://drive.google.com/file/d/19gOjwtXTbGAqZxs_f5pXuZ2lXxoUz8UJ/view
 
 ## Run Locally
 
-1) Go to the project directory
+1) Go to the project directory by downloading Zip File
 
 2) Install dependencies
 
