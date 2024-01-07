@@ -8,7 +8,9 @@ eKart-App is a Full Stack Shopping App.That uses Braintree API for setting up pa
 - Database: Mongo DB
 
 # Demo
-https://ekart-mern-app.cyclic.app/
+Live Site: https://ekart-mern-app.cyclic.app/
+
+Intro Video: https://drive.google.com/file/d/19gOjwtXTbGAqZxs_f5pXuZ2lXxoUz8UJ/view
 
 ## Run Locally
 
